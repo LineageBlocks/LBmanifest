@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageBlocks/android_device_blocks_tophat" path="device/blocks/tophat" remote="github" />
+  <project name="LineageBlocks/android_kernel_blocks_tophat" path="kernel/blocks/tophat" remote="github" />
+  <project name="LineageBlocks/proprietary_vendor_blocks" path="vendor/blocks" remote="github" />
+</manifest>
+ 
